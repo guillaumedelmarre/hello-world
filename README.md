@@ -1,2 +1,5 @@
 # hello-world
-Test repository to learn more about GitHub.
+
+Hi there!
+
+Guillaume here, I'm a senior product manager learning how to code, and I'm here to know more about GitHub.
